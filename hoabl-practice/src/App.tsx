@@ -1,4 +1,4 @@
-import React from 'react';
+import  React from 'react';
 import Adduser from './components/Adduser';
 
 import './App.css';
